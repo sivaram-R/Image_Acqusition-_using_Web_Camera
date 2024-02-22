@@ -102,28 +102,19 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-</br>
 ![IMG-20240222-WA0005](https://github.com/sivaram-R/Image_Acqusition-_using_Web_Camera/assets/121165794/98676acf-96d2-487c-b647-75d9da1eb070)
 
-</br>
-
 ### ii) Display the video
-</br>
+
 ![IMG-20240222-WA0008](https://github.com/sivaram-R/Image_Acqusition-_using_Web_Camera/assets/121165794/966f6466-a3b8-4fa9-9e88-063c356fe8e7)
 
-</br>
-
 ### iii) Display the video by resizing the window
-</br>
 ![IMG-20240222-WA0006](https://github.com/sivaram-R/Image_Acqusition-_using_Web_Camera/assets/121165794/9f9e2235-c374-4bc0-a223-684e59c26c99)
 
-</br>
 
 ### iv) Rotate and display the video
-</br>
-![IMG-20240222-WA0007](https://github.com/sivaram-R/Image_Acqusition-_using_Web_Camera/assets/121165794/8d2f7028-fd2f-4d52-a62a-db1d9f804e38)
 
-</br>
+![IMG-20240222-WA0007](https://github.com/sivaram-R/Image_Acqusition-_using_Web_Camera/assets/121165794/8d2f7028-fd2f-4d52-a62a-db1d9f804e38)
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
